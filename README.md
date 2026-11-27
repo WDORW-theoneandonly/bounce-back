@@ -1,12 +1,12 @@
 # Bounce Back
 
-A vertical bounce-climber made for Hack Club. Theme: **Bounce Back**.
+A vertical bounce-climber made by Oneth Welikanna for Hack Club Harvest. Theme: **Bounce Back**.
 
 Fall off the screen and a trampoline net throws you back up, with double points for your next 8 bounces. Every fall costs a heart, and the run ends when you run out. Climb through blue sky, golden hour and dusk into space.
 
 ## Play
 
-Open `index.html` in any modern browser, or play it on itch.io (add your link here).
+Open `index.html` in any modern browser, or play it on itch.io (https://wdorw.itch.io/bounce-back).
 
 ## Controls
 
